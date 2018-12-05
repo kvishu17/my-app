@@ -1,0 +1,6 @@
+#Nexus discovery status
+#Tue Dec 04 11:03:06 UTC 2018
+lastDiscoveryStrategy=prefix-file
+lastDiscoveryStatus=UNSUCCESSFUL
+lastDiscoveryTimestamp=1543921386460
+lastDiscoveryMessage=Remote disabled automatic routing
